@@ -1,0 +1,7 @@
+11 01 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
+22 02 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
+33 03 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
+44 04 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
+55 05 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
+11 11 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
+22 22 * * * /Users/taroooyan/Develop/push-repdigit-time/main.sh
